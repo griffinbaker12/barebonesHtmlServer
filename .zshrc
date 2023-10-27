@@ -1,0 +1,1 @@
+alias run="node src/index.js"
